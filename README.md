@@ -1,8 +1,8 @@
-# Yuweza - Real-Time Token Tracking Dashboard
+# Real-Time Token Tracking Dashboard
 
 ## Description
 
-Yuweza is a dynamic, real-time dashboard for monitoring cryptocurrency tokens. It provides a clean, intuitive interface for tracking the lifecycle of tokens, from their creation as new pairs to their final migration. The dashboard is designed to be fast, responsive, and informative, offering users an at-a-glance view of market activity.
+Token Trading Table is a dynamic, real-time dashboard for monitoring cryptocurrency tokens. It provides a clean, intuitive interface for tracking the lifecycle of tokens, from their creation as new pairs to their final migration. The dashboard is designed to be fast, responsive, and informative, offering users an at-a-glance view of market activity.
 
 ## Key Features
 
