@@ -18,10 +18,13 @@ Token Trading Table is a dynamic, real-time dashboard for monitoring cryptocurre
 ## Screenshots
 
 **Desktop Layout**
-![Desktop Layout](./screenshots/responsive-desktop.png)
+<img width="1920" height="1080" alt="Screenshot (71)" src="https://github.com/user-attachments/assets/189c6655-bd2e-40a4-809c-0663740cb9b9" />
+
+
 
 **Mobile Layout (320px)**
-![Mobile Layout](./screenshots/responsive-mobile.png)
+<img width="1920" height="1080" alt="Screenshot (70)" src="https://github.com/user-attachments/assets/6ecba995-9723-4cf5-ae4b-949a176f6248" />
+
 
 ## Tech Stack
 
